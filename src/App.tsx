@@ -202,7 +202,7 @@ function App() {
       <div className="footer">
         <div className="container text-center">
           <p>
-            © 2024 • Built reluctantly with React & CSS • 
+            © 2025 • Built reluctantly with React & CSS • 
             <span className="text-accent"> Maintained grudgingly by Parva Patel</span>
           </p>
         </div>
